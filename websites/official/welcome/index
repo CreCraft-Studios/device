@@ -1,33 +1,34 @@
 #banner
 image=https://i.imgur.com/rIzqukr.png
-text=&f&lWelcome to GitWeb
+text=&f&lWelcome To GitWeb
 
 #paragraph
-text=&e&lGitWeb&r is a working web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.
-image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
+text=&e&lGitWeb&r is a working web browser powered by GitHub. Which means you can create websites for &e&lGitWeb&r for this server.
 padding=10
+image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
 
 #header
 text=&f&lGetting Started
 scale=2
-align=left
 padding=10
+align=left
 
 #paragraph
-text=Just like a normal web browser, you can enter the address of the website above. Now don't get too ahead of yourself, you can't enter real websites. Instead you have to enter the address of a GitWeb site.
+text=Just like a normal web browser, you enter a web address to go to, example welcome.official, however, you can't enter a real web address like youtube.com
 padding=10
 
 #header
 text=&f&lCredits
 scale=2
-align=left
 padding=10
+align=left
 
 #paragraph
-text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
+text=&e&lGitWeb&r was originally created by MinecraftDoodler. It was then continued by MrCrayfish, now it's managed by CreCraft Studios (For this server only)
 padding=10
 
 #footer
-title=GitWeb
-sub-title=Copyright (c) MrCrayfish
+title=&e&lGitWeb&r, powered by GitHub
+sub-title=(c) Copyright, CreCraft Studios
 home-page=welcome.official
+color=-16753920
